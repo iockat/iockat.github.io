@@ -1,0 +1,49 @@
+@font-face {
+  font-family: "UAV OSD Sans Mono";
+  src: url("UAV-OSD-Sans-Mono.ttf");
+}
+
+html, body {
+  background: rgb(17, 17, 17);
+}
+
+h1 {
+    font-size: 30px;
+}
+
+#title {
+    color: rgb(49, 255, 145);
+}
+
+body {
+    font-family: "UAV OSD Sans Mono";
+    color: white;
+    font-size: 14px;
+    line-height: 1.4;
+    margin: 0;
+    margin-top: 200px;
+    margin-left: 200px;
+    min-height: 100%;
+    overflow-wrap: break-word;
+}
+
+#link_list {
+    margin-top: 40px;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: rgb(178, 178, 178);
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    margin-bottom: 40px;
+}
