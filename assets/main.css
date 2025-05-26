@@ -15,8 +15,8 @@ html, body {
 }
 
 h1 {
-	font-size: 30px;
-	margin-bottom: 0px;
+	font-size: 2.5rem;
+	margin-bottom: 0;
 }
 
 #title {
@@ -26,7 +26,7 @@ h1 {
 body {
 	font-family: "UAV OSD Sans Mono";
 	color: white;
-	font-size: 14px;
+	font-size: 1rem;
 	line-height: 1.4;
 	margin: 0;
 	margin-top: 20%;
@@ -38,7 +38,7 @@ body {
 .social {
 	color: var(--secondary_color);
 	text-decoration: none;
-	font-size: 10px;
+	font-size: 0.8rem;
 }
 
 .social:hover {
