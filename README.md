@@ -1,1 +1,1 @@
-# iockat.github.io
+# iockat.com
