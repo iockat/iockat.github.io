@@ -9,7 +9,6 @@
 	--secondary_color: rgb(178, 178, 178);
 }
 
-
 html, body {
 	background: var(--background);
 	background-color: var(--background);
@@ -30,7 +29,7 @@ body {
 	font-size: 14px;
 	line-height: 1.4;
 	margin: 0;
-	margin-top: 200px;
+	margin-top: 20%;
 	margin-left: 20%;
 	min-height: 100%;
 	overflow-wrap: break-word;
